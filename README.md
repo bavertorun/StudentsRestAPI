@@ -9,7 +9,7 @@ You can follow the steps below to run the project on your local machine:
 
 1.  First, clone the project:
 
-`git clone https://github.com/YOUR-USERNAME/PROJECT-NAME.git   cd PROJECT-NAME`
+`git clone https://github.com/BaverTorun/GoStudentsRestAPI.git   cd PROJECT-NAME`
 
 2.  Install the necessary dependencies:
 
