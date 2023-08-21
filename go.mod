@@ -1,4 +1,4 @@
-module studentsRestAPI
+module github.com/BaverTorun/StudentsRestAPI
 
 go 1.21.0
 
